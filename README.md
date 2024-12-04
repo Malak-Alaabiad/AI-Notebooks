@@ -34,9 +34,16 @@ This repository contains a collection of Jupyter notebooks that demonstrate the 
 # 📈 Highlights
 Each notebook includes:
 
-## Data Preprocessing: Cleaning and preparing data for modeling.
-## EDA: Insights and visualizations to understand the data better.
-## Modeling: Training, evaluation, and fine-tuning of machine learning models.
-## Visualizations: Graphs and charts to illustrate findings and performance.
+## Data Preprocessing: 
+Cleaning and preparing data for modeling.
+
+## EDA: 
+Insights and visualizations to understand the data better.
+
+## Modeling: 
+Training, evaluation, and fine-tuning of machine learning models.
+
+## Visualizations: 
+Graphs and charts to illustrate findings and performance.
 
 Happy Coding! 😊
